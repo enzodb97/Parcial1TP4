@@ -1,0 +1,4 @@
+2025-10-05 19:14:00 - INSERT en Animales
+2025-10-05 19:14:52 - INSERT en Eventos
+2025-10-05 19:15:04 - DELETE en Eventos
+2025-10-05 19:16:03 - UPDATE en Eventos
